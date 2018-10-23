@@ -6,6 +6,6 @@ Desc: A player has to lead the bird through the rails without touching them. To 
 ------
 
 ### Game Tutorial:
-
+![tutorial](./Screenshots/tutorial.png)
 [link for tutorial](https://www.youtube.com/watch?v=A-GkNM8M5p8)
 ----
